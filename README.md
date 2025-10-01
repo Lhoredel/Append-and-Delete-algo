@@ -1,1 +1,2 @@
 # Append-and-Delete-algo
+By checking if it is possible to change one string into another employing precisely k operations of appending or deleting characters, this code solves the Append and Delete problem. By first determining the shared prefix, the code then verifies k is enough and if any additional activities are conceivable to compute the minimum activities required. Pairs of delete-append cycles consume their use.
